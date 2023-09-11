@@ -25,3 +25,4 @@ eval $(ssh-agent -s)  (To check whether ssh agent is running or not)
 ssh-add ~/.ssh/id_rsa  (add private key in ssh agent)
 tail ~/.ssh/id_rsa.pub  (This command will give the key)
 Then copy the key in github SSH, this will give us the access to push repository to Github
+fgsfgsg
